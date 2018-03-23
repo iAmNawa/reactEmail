@@ -1,3 +1,3 @@
-# React Email
+# React Tac Toe
 
-Allowing the user to send multiple e-mails at once
+Creating a tic tac toe game in React
